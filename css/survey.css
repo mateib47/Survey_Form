@@ -3,6 +3,8 @@ input[type="text"],input[type="email"],input[type="number"] {
   height: 30px;
   margin-bottom: 15px;
   margin-top: 5px;
+  border-radius: 5px;
+  border: 0;
 }
 input[type="radio"]{
   height: 30px;
@@ -20,6 +22,8 @@ input[type="checkbox"]{
 }
 select{
     height: 30px;
+    border: 0;
+    border-radius: 5px;
 }
 body{
   background-image:  url("../images/bar-2.jpg");
@@ -91,4 +95,10 @@ label{
   float: right;
   width: 100%;
   margin-top: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  main {
+     max-width: 90%;
+  }
 }
