@@ -1,6 +1,6 @@
 This is a responsive survey page created for one of my friends that owns a beverage business. It contains a form with different types of input.
 
-The live page is found at the following URL: https://mateib47.github.io/Survey_Form/
+The live page is found at the following URL: https://mateib47.github.io/survey-form/
 
 The following user stories are fulfilled:
 
